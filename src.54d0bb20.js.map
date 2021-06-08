@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;AAAA,aAAA,QAAA","file":"src.54d0bb20.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss';\n// import foodCards from './templation/foos-cards.hbs';\n// import menu from './menu.json';\n\n// const $menu = document.querySelector('.js-menu');"]}
